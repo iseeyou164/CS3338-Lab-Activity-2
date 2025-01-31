@@ -1,0 +1,67 @@
+commit 7b5be9155a54386c0a5b71707c33f63746235428
+Merge: 3098807 030849f
+Author: lailavelas <lailavelasquez16@gmail.com>
+Date:   Fri Jan 31 11:54:10 2025 -0800
+
+    Resolved merge conflict in index.html
+
+commit 3098807f74232aba9e0dfc70ec546b363214e6a3
+Author: lailavelas <lailavelasquez16@gmail.com>
+Date:   Fri Jan 31 11:48:41 2025 -0800
+
+    Modified index.html in the main branch
+
+commit 030849fd4761ca184567ab6d0c9df714b92c1a7a
+Author: lailavelas <lailavelasquez16@gmail.com>
+Date:   Fri Jan 31 11:45:40 2025 -0800
+
+    Teammate added a new div
+
+commit fb89820c1512da20cd5e427ba56f2d6199275842
+Author: iseeyou164 <calvinchau70m1@gmail.com>
+Date:   Fri Jan 31 11:07:24 2025 -0800
+
+    Commit git repo location
+
+commit 0b933d2f177a8c196cd59e94014d0e034f3e92f9
+Author: iseeyou164 <calvinchau70m1@gmail.com>
+Date:   Fri Jan 31 11:07:06 2025 -0800
+
+    Commit git log
+
+commit 9497af36f87dabb3be8b3f391b328ff7113420f2
+Merge: c716563 5569339
+Author: iseeyou164 <calvinchau70m1@gmail.com>
+Date:   Fri Jan 31 11:04:17 2025 -0800
+
+    Commit index (food & movie/game)
+
+commit 55693399d60362075f9ec28270048d8c33f40ee0
+Author: iseeyou164 <calvinchau70m1@gmail.com>
+Date:   Fri Jan 31 11:01:24 2025 -0800
+
+    Commit index (food & movie/game)
+
+commit c716563efe25c308696188d37a48a25f3ff5eafe
+Author: iseeyou164 <calvinchau70m1@gmail.com>
+Date:   Fri Jan 31 10:59:11 2025 -0800
+
+    Commit index (food)
+
+commit 08b4322f5bd1c4c5b58fd264ebe268361b6e6f33
+Author: iseeyou164 <calvinchau70m1@gmail.com>
+Date:   Fri Jan 31 10:56:36 2025 -0800
+
+    Commit my README
+
+commit 1bbd0cbc00433d5da4062261ed8bb0ee4b8046c2
+Author: iseeyou164 <calvinchau70m1@gmail.com>
+Date:   Fri Jan 31 10:35:34 2025 -0800
+
+    Commit my README
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
